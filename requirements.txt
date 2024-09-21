@@ -5,3 +5,4 @@ plotly
 aiohttp
 python-binance
 termcolor
+TA-Lib==0.4.0
