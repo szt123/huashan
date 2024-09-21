@@ -4,4 +4,4 @@ matplotlib
 plotly
 aiohttp
 python-binance
-
+termcolor
